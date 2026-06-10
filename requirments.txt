@@ -6,3 +6,5 @@ requests
 beautifulsoup4
 python-chess
 scikit-learn
+keras
+pytourch
